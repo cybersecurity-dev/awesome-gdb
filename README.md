@@ -1,4 +1,10 @@
-# Awesome [GDB](https://en.wikipedia.org/wiki/GNU_Debugger) (_GNU Debugger_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/GNU_Debugger">
+      <img width="25%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/GDB_logo.svg" />
+    </a>
+</p>
+
+# Awesome [GDB](https://www.sourceware.org/gdb/) (_GNU Debugger_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
